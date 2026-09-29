@@ -1,1 +1,8 @@
+# Windows 硬件底层通信桥接（仅 Windows 安装）
 pythonnet>=3.0.3; platform_system == "Windows"
+
+# 桌面 UI 悬浮窗框架（跨平台）
+PySide6>=6.5.0
+
+# 打包为独立 exe/app 的工具
+pyinstaller>=6.0.0

@@ -4,3 +4,4 @@ dist
 build
 HardwareMonitor.spec
 __pycache__
+CpuTempOverlay.spec

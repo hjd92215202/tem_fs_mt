@@ -1,0 +1,6 @@
+repomix-output.xml
+venv
+dist
+build
+HardwareMonitor.spec
+__pycache__
